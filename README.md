@@ -53,3 +53,5 @@
 | 51 | Attack | Evasion | Universal Perturbation Attack on MNIST - CNN | [Link](https://github.com/thealper2/ai-security-notebooks/blob/main/universal%20perturbation/MNIST%20Universal%20Perturbation.ipynb) |
 | 52 | Attack | Evasion | Wasserstein Attack on CIFAR10 - CNN | [Link](https://github.com/thealper2/ai-security-notebooks/blob/main/wasserstein%20attack/CIFAR10%20Wasserstein.ipynb) |
 | 53 | Attack | Evasion | ZOO Attack on CIFAR10 - CNN | [Link](https://github.com/thealper2/ai-security-notebooks/blob/main/zoo%20attack/CIFAR10%20ZOO.ipynb) |
+| 54 | Attack | Evasion | Boundary Attack on CIFAR10 - CNN | [Link](https://github.com/thealper2/ai-security-notebooks/blob/main/boundary%20attack/CIFAR10%20Boundary%20Attack.ipynb) |
+| 55 | Attack | Evasion | Simple Black Box Attack on CIFAR10 - CNN | [Link](https://github.com/thealper2/ai-security-notebooks/blob/main/simba/CIFAR10%20SimBA.ipynb) |
