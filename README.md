@@ -55,3 +55,6 @@
 | 53 | Attack | Evasion | ZOO Attack on CIFAR10 - CNN | [Link](https://github.com/thealper2/ai-security-notebooks/blob/main/zoo%20attack/CIFAR10%20ZOO.ipynb) |
 | 54 | Attack | Evasion | Boundary Attack on CIFAR10 - CNN | [Link](https://github.com/thealper2/ai-security-notebooks/blob/main/boundary%20attack/CIFAR10%20Boundary%20Attack.ipynb) |
 | 55 | Attack | Evasion | Simple Black Box Attack on CIFAR10 - CNN | [Link](https://github.com/thealper2/ai-security-notebooks/blob/main/simba/CIFAR10%20SimBA.ipynb) |
+| 56 | Attack | Evasion | Conjugate Gradients on CIFAR10 - CNN | [Link](https://github.com/thealper2/ai-security-notebooks/blob/main/conjugate%20gradient/CIFAR10%20Conjugate%20Gradient.ipynb) |
+| 57 | Attack | Text | Faster Alzantot Genetic Algorithm on IMDB - BERT | [Link](https://github.com/thealper2/ai-security-notebooks/blob/main/faster%20genetic%20alzantot%20algorithm/IMDB%20FAGA.ipynb) |
+| 58 | Attack | Text | Improved Genetic Algorithm on IMDB - BERT | [Link](https://github.com/thealper2/ai-security-notebooks/blob/main/improved%20genetic%20algorithm/IMDB%20IGA.ipynb) |
